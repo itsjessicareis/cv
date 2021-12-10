@@ -1,6 +1,9 @@
 
 body {
   background-color: #FCB2BF;
+  margin-top: 0;
+  margin-left: 0;
+  padding-left: 12px;
 }
 
 hr {
@@ -25,4 +28,17 @@ h1 {
 h3 {
   color: #561F55;
   font-family: "Monaco", monospace;
+}
+
+.nav-bar {
+  position: fixed;
+  background-color: #EDD2F3;
+  padding-right: 1348px;
+  padding-left: 10px;
+  left: 0;
+
+}
+
+.info {
+  padding-top: 50px;
 }
