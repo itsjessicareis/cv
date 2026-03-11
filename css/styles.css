@@ -1,6 +1,6 @@
 
 body {
-  background-color: #fefdf7;
+  background-color: #e6cfbc;
   margin-top: 0;
   margin-left: 0;
   padding-left: 12px;
@@ -21,7 +21,7 @@ img {
 }
 
 h1 {
-  color: #d9bc18;
+  color: #FF9933 ;
   font-family: "courier new";
 }
 
@@ -42,4 +42,5 @@ h3 {
 .info {
   padding-top: 50px;
 }
+
 
