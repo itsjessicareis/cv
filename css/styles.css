@@ -1,6 +1,6 @@
 
 body {
-  background-color: #e6cfbc;
+  background-color: #e6cfbc ;
   margin-top: 0;
   margin-left: 0;
   padding-left: 12px;
@@ -8,7 +8,7 @@ body {
 
 hr {
   border-style: none;
-  border-color: #f5dce1;
+  border-color: #f5dce1 ;
   border-top-style: dotted;
   border-width: 5px;
   width: 6%;
@@ -21,13 +21,13 @@ img {
 }
 
 h1 {
-  color: #FF9933 ;
+  color: #d9bc18 ;
   font-family: "courier new";
 }
 
 h3 {
-  color: #723529;
-  font-family: "Monaco", monospace;
+  color: #723529 ;
+  font-family: "Monaco", monospace;#FF9933#12a0b0
 }
 
 .nav-bar {
@@ -42,5 +42,6 @@ h3 {
 .info {
   padding-top: 50px;
 }
+
 
 
